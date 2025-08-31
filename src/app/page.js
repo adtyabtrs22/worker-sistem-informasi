@@ -30,7 +30,7 @@ export default function Home() {
                   </span>
                 </h1>
                 <p className="text-xl text-gray-200 leading-relaxed max-w-2xl">
-                  ITK's Information Systems study program is intended as a
+                  ITK&#39;s Information Systems study program is intended as a
                   center of excellence in organizing information systems
                   education that can help improve the performance of companies
                   or organizations through the use of information technology.
